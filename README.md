@@ -1,4 +1,4 @@
-Oo# Hi, I'm Alfred Otieno Owuor
+Hi, I'm Alfred Otieno Owuor
 ## About Me
  I'm currently learning Artificial Intelligence at We can Academy.
  I'm interested in Artificial intelligence and data science.
