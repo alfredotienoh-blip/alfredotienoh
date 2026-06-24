@@ -16,6 +16,6 @@ Hi, I'm Alfred Otieno Owuor
  A boda boda platform within Kisumu county government to ensure safety for both riders and their clients
 
 ## How to reach me
-Email: alfred.otienoh@gmail.com
-LinkedIn: https://www.linkedin.com/in/alfred-francis-otieno-6a18b879/
-Add my profile README
+- Email: alfred.otienoh@gmail.com
+- LinkedIn: https://www.linkedin.com/in/alfred-francis-otieno-6a18b879/
+- Add my profile README
